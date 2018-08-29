@@ -1,6 +1,12 @@
 ## Welcome to GitHub Pages
 ### Hello, I'm Edmoun Kabbach and this is my website.
 
+# Edmoun Kabbach's first CS193 Lab
+Things I love about CS 193
+- The helpful TAs
+- Helps prepare us for future CS classes
+- We get to switch between lectures and lab every week so it's always interesting
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
